@@ -1,4 +1,4 @@
-package com.test;
+package com.loops;
 //Find the sum of first 100 natural numbers.
 
 public class SumOfx {

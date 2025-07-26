@@ -1,4 +1,4 @@
-package com.test;
+package com.loops;
 //Print all even numbers from 1 to 50 using a for loop.
 
 public class EvenNum {
