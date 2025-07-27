@@ -1,5 +1,5 @@
 package com.loops;
-//✅ 12. How does a while loop differ from a do-while loop?
+//✅ 12. How does a while loop differ from a do-while loop? 
 
 public class Q12 {
 	public static void main(String[] args) {
